@@ -1,6 +1,6 @@
 # Code for Yu, Thomas (2019), "A Model of Countercyclical Macroprudential Policy"
 
-Undergraduate honors thesis at the University of Chicago.
+Undergraduate honors thesis at the University of Chicago. [Link to paper](https://www.thomas-yu.com/files/YuThomas_HonorsThesis.pdf).
 
 This code develops a quantitative DSGE model featuring a social cost of debt, which can be addressed with either a debt tax or a capital requirement on financial intermediaries that responds countercyclically to aggregate debt and output. 
 IRFs are plotted to observe the economy's response to a productivity shock and capital quality shock. 
