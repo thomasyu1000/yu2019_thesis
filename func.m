@@ -132,4 +132,5 @@ cd ..
 %running the dynare file
 cd dynare;
 eval(['dynare ' switch_model '.mod noclearall;']);
+pause(0.01);
 cd ..
