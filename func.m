@@ -125,6 +125,8 @@ for ii=1:nn_vars
 end
 fprintf(fid,';\n');
 
+fprintf(fid,'\npause(0.1);\n');
+
 %Closing the dynare file
 fclose(fid);
 cd ..
@@ -132,5 +134,4 @@ cd ..
 %running the dynare file
 cd dynare;
 eval(['dynare ' switch_model '.mod noclearall;']);
-pause(0.01);
 cd ..
