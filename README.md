@@ -1,4 +1,4 @@
-# Code for Yu, Thomas (2019), "A Model of Countercyclical Macroprudential Policy"
+# Code for "A Model of Countercyclical Macroprudential Policy"
 
 Undergraduate honors thesis at the University of Chicago. [Link to paper](https://www.thomas-yu.com/assets/docs/YuThomas_HonorsThesis.pdf).
 
