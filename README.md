@@ -6,7 +6,7 @@ This code develops a quantitative DSGE model featuring a social cost of debt, wh
 IRFs are plotted to observe the economy's response to a productivity shock and capital quality shock.
 Finally, a welfare analysis is used to determine the optimal debt tax rate and compare welfare between the baseline model, optimal debt tax model, and some variants of the capital requirement model.
 
-To build this project, I referenced sample code from Gertler and Karadi (2011), available on [Peter Karadi's personal website](https://sites.google.com/site/pkaradi696/research).
+To build this project, I referenced sample code from Gertler and Karadi (2011).
 
 ## Quick guide
 1. Ensure that [MATLAB](https://www.mathworks.com/products/matlab.html) and [Dynare](https://www.dynare.org/resources/quick_start/) are installed and set up.
